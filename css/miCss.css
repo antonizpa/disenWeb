@@ -11,13 +11,16 @@ nav form{
   border-style:solid;
 }
 nav a:hover{
-  border:dotted 2px red
+  border:dotted 3px red;
+  border-style:solid;
 }
 nav button:hover{
-  border:dotted 2px red
+  border:dotted 3px red;
+  border-style:solid;
 }
 nav form:hover{
-  border:dotted 2px red
+  border:dotted 3px red;
+  border-style:solid;
 }
  
 
