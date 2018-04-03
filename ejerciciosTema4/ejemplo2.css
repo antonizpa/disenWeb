@@ -1,0 +1,12 @@
+a {
+  padding: 10px;
+  border: dotted 1px;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+a:active{
+  background-color: black:
+}

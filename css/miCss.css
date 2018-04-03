@@ -1,0 +1,40 @@
+nav a {
+  border:dotted 1px yellow;
+  border-style:solid;
+  }
+nav button{
+   border:dotted 1px yellow;
+  border-style:solid;  
+}
+nav form{
+   border:dotted 1px yellow;
+  border-style:solid;
+}
+nav a:hover{
+  border:dotted 2px red
+}
+nav button:hover{
+  border:dotted 2px red
+}
+nav form:hover{
+  border:dotted 2px red
+}
+ 
+
+body>header {
+ margin-top:60px
+}
+
+section article p{
+  padding:2em 1em;
+  margin-bottom:2em;
+  background-color:#e9ecef;
+  border-radius:1em;
+}
+
+article h1{
+  color:rebeccapurple;
+  font-family: 'Pacifico', cursive;
+  text-shadow: gray 6px 6px;
+  background-color: limegreen
+  }
