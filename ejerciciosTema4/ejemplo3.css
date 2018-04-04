@@ -1,16 +1,8 @@
-body > header> h1 {
-  font-family: 'Permanent Marker', cursive;
-}
-
-nav a{
-  border:dotted red 1px;
-  padding: 10px;
-  margin: 10px;  
-}
-
-h1{
-  text-shadow: 11px 5px red;
-  text-align: center;
-  width: 50%
-  float: left;
+/* latin */
+@font-face {
+  font-family: 'Permanent Marker';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Permanent Marker Regular'), local('PermanentMarker-Regular'), url(https://fonts.gstatic.com/s/permanentmarker/v7/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
