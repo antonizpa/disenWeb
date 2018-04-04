@@ -2,7 +2,7 @@ nav a {
   border:dotted 1px yellow;
   border-style:solid;
   }
-nav button{
+nav button {
    border:dotted 1px yellow;
   border-style:solid;  
 }
@@ -39,5 +39,5 @@ article h1{
   color:rebeccapurple;
   font-family: 'Pacifico', cursive;
   text-shadow: gray 6px 6px;
-  background-color: limegreen
+  background-color: pink;
   }
